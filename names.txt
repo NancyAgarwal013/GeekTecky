@@ -1,2 +1,4 @@
 Nancy Agarwal
-This is my cutom file
+This is my custom file
+This is used for all the documentation purposes.
+
